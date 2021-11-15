@@ -7,3 +7,4 @@ Course taught in 4 parts:
 
 I created the slides using [xarigan](https://github.com/yihui/xaringan) and the [R-ladies css](https://github.com/rladies/resources/blob/master/xaringan-slides/how_to_use.md). The PDFs were generated from html files using the following code: `pagedown::chrome_print("test.html",output="test.pdf")`. 
 
+Please message me on Twitter if you find some mistakes: @tania_maxwell7
